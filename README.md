@@ -8,4 +8,4 @@ The physical built looked like a generic gaming controller with 2 buttons on a b
 <img src="https://user-images.githubusercontent.com/108099095/218279292-84efaaf6-130b-4ec5-9bed-1aaa8a09430f.png" width="200">
 
 ### Schematic
-![Super mario bros 2](https://user-images.githubusercontent.com/108099095/218279518-22907a45-c468-4aa3-9fc5-e27cd52c2690.png  | width=200)
+<schem src="https://user-images.githubusercontent.com/108099095/218279518-22907a45-c468-4aa3-9fc5-e27cd52c2690.png" width="200">
